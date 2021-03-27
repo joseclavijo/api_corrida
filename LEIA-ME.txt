@@ -1,2 +1,6 @@
 Os id das tabelas prova, corredor e evento são auto_increment, sendo assim não tem a necessidade de passar pelo cabeçalho.
 
+As requisições devem ser feitas pelo http://...../api/v1
+
+Todos os parametros devem ser enviados via HEADER
+
