@@ -1,0 +1,2 @@
+Os id das tabelas prova, corredor e evento são auto_increment, sendo assim não tem a necessidade de passar pelo cabeçalho.
+
